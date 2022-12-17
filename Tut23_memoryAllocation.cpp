@@ -2,6 +2,26 @@
 
 using namespace std;
 
+
+/* 
+In this lecture, memory allocation means the memory difference of class & object.
+Means when we create a class only template memory & the memory of static vars, static member funcs get stored in the name of class...
+But as far as object of that class is considered, when we create the object the actual data member variable memory gets assigned in the name of that object. Like arrays, simple vars , etc in the object.
+Whenever we create any object of class the memory gets allocated to it separately. Means different objects of same class get it's own memory.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
 class Lockheed
 {
     string order_country[20];
