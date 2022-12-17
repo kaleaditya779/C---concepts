@@ -42,6 +42,7 @@ public:
 
 // Count is the static data member of class Employee
 int Employee::count; // Default value is 0
+// We need to define static class var like this.. Then have to write inside class as well.
 
 int main()
 {
