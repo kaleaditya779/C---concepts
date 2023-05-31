@@ -16,7 +16,7 @@ Static variables in a class: As the variables declared as static are initialized
 are allocated space in separate static storage so, the static variables in a class are shared by the 
 objects. There can not be multiple copies of same static variables for different objects. Also 
 because of this reason static variables can not be initialized using constructors.
-*/
+*/ 
 
 /*
 Static functions in a class: Just like the static data members or static variables inside the class, 
